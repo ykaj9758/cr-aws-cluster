@@ -3,5 +3,5 @@ kind: Namespace
 metadata:
   name: 'dev'
   annotations:
-    openshift.io/description: 'Namespace representing managed cluster dev01'
+    openshift.io/description: 'Namespace representing managed cluster dev'
     openshift.io/display-name: 'dev Cluster'
