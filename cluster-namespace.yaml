@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: 'dev01'
+  annotations:
+    openshift.io/description: 'Namespace representing managed cluster dev01'
+    openshift.io/display-name: 'dev01 Cluster'
